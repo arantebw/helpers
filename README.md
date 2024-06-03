@@ -4,13 +4,17 @@ A collection of helper functions.
 
 ## transform
 
+Transform a string in capitalized words to kebab-case.
+
+- [capitalizedToKebabCase.ts](./src/capitalizedToKebabCase.ts)
+
 Transform a string in kebab-case to capitalized words.
 
 - [kebabCaseToCapitalized.ts](./src/kebabToCapitalized.ts)
 
-Transform a string in capitalized words to kebab-case.
+Transform a string to an array of strings.
 
-- [capitalizedToKebabCase.ts](./src/capitalizedToKebabCase.ts)
+- [stringToArrayOfStrings.ts](./src/stringToArrayOfStrings.ts)
 
 ## sorting
 
