@@ -7,5 +7,6 @@ A collection of helper functions.
 - [formatUnixDate](./src/formatUnixDate.ts)
 - [generateUniqueKey](./src/generateUniqueKey.ts)
 - [kebabCaseToCapitalized](./src/kebabToCapitalized.ts)
+- [removeWhiteSpaces](./src/removeWhiteSpaces)
 - [stringToArrayOfStrings](./src/stringToArrayOfStrings.ts)
 - [sortCountries](./src/sortCountries.ts)
