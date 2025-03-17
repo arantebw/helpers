@@ -9,5 +9,6 @@ A collection of helper functions.
 - [getShortenValue](./src/getShortenValue.ts)
 - [kebabCaseToCapitalized](./src/kebabToCapitalized.ts)
 - [removeWhiteSpaces](./src/removeWhiteSpaces)
+- [snakeCaseToCapitalized](./src/snakeCaseToCapitalized.ts)
 - [stringToArrayOfStrings](./src/stringToArrayOfStrings.ts)
 - [sortCountries](./src/sortCountries.ts)
