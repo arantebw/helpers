@@ -2,6 +2,8 @@
 
 A collection of helper functions.
 
+## TypeScript
+
 - [capitalizedToKebabCase](./src/capitalizedToKebabCase.ts)
 - [formatToCurrency](./src/formatToCurrency.ts)
 - [formatUnixDate](./src/formatUnixDate.ts)
@@ -12,3 +14,7 @@ A collection of helper functions.
 - [snakeCaseToCapitalized](./src/snakeCaseToCapitalized.ts)
 - [stringToArrayOfStrings](./src/stringToArrayOfStrings.ts)
 - [sortCountries](./src/sortCountries.ts)
+
+## Python
+
+- [to_snake_case](./src/python/to_snake_case.py)
